@@ -4,10 +4,9 @@
 
 ### About me
 - Name: **Kinue**
-- I'll suicude soon:tm:
 - Job: **Unemployment**
 - My dream for the future is to be a bride! ✿✿✿
-- Using china shit keyboard, china shit mouse, china shit smartphone, china shit laptop, china shit smartwatch, china shit tablet
+- Using random china shit keyboard, china shit mouse, china shit smartphone, china shit laptop, china shit smartwatch, china shit tablet
 
 ### Skills
 - sleep (100%)
@@ -34,3 +33,7 @@
 - Kuma Kuma Kuma Bear
 
 -> also i'm click circle everyday!!!
+
+![Random shit image](https://omg.pls-dont-arrest.me/i/ygkj2xyt.jpg)
+
+[![Random shit stats](https://github-readme-stats.vercel.app/api?username=kinue72)](https://github.com/anuraghazra/github-readme-stats)
