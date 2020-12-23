@@ -4,7 +4,7 @@
 
 ### About me
 - Name: **Kinue**
-- Job: **Unemployment**
+- **Unemployment** girl
 - My dream for the future is to be a bride! ✿✿✿
 - Using random china shit keyboard, china shit mouse, china shit smartphone, china shit laptop, china shit smartwatch, china shit tablet
 
