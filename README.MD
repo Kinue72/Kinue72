@@ -36,4 +36,4 @@
 
 ![Random shit image](https://omg.pls-dont-arrest.me/i/ygkj2xyt.jpg)
 
-[![Random shit stats](https://github-readme-stats.vercel.app/api?username=kinue72)](https://github.com/anuraghazra/github-readme-stats)
+[![Random shit stats](https://github-readme-stats.vercel.app/api?username=kinue72&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
