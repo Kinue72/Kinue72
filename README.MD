@@ -3,8 +3,8 @@
 - windoze = gay
 
 ### About me
-- Name: **Kinue**
-- **Unemployment** girl
+- Name: **Kinue** - 13 yo
+- **Unemployment girl**
 - Don't know how to code, use github for file hosting!
 - My dream for the future is to be a bride! ✿✿✿
 - Using random china shit keyboard, china shit mouse, china shit smartphone, china shit laptop, china shit smartwatch, china shit tablet
@@ -13,7 +13,7 @@
 - sleep (100%)
 - eat (25%)
 - breath (100%)
-- learn how to code (0%)
+- learn how to code (-1%)
 - method to suicide (30%)
 
 ### Contacts
