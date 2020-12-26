@@ -3,8 +3,7 @@
 - windoze = gay
 
 ### About me
-- Name: **Kinue** - 13 yo
-- **Unemployment girl**
+- Name: **Kinue** ♀ - **Unemployment**
 - Don't know how to code, use github for file hosting!
 - My dream for the future is to be a bride! ✿✿✿
 - Using random china shit keyboard, china shit mouse, china shit smartphone, china shit laptop, china shit smartwatch, china shit tablet
@@ -33,7 +32,7 @@
 - Shinro kibou chousa ni「Shufukibou」to kaitara, tannin no BatsuIchi Komochi kyoushi ni hirowareta ken
 - Kuma Kuma Kuma Bear
 
--> also i'm click circle everyday!!!
+-> also click circle everyday!!!
 
 ![Random shit image](https://omg.pls-dont-arrest.me/i/ygkj2xyt.jpg)
 
