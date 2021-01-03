@@ -3,9 +3,9 @@
 - windoze = gay
 
 ### About me
-- Name: **Kinue** ♀ - **Unemployment**
+- Name: **Kinue** ♀ - **Unemployment** - love "gb" things! ✿✿✿
 - Don't know how to code, use github for file hosting!
-- My dream for the future is to be a bride! ✿✿✿
+- My dream for the future is to be a bride or nekomimi! ✿✿✿
 - Using random china shit keyboard, china shit mouse, china shit smartphone, china shit laptop, china shit smartwatch, china shit tablet
 
 ### Skills
@@ -16,7 +16,7 @@
 - method to suicide (30%)
 
 ### Contacts
-- Discord: **Kinue#8888**
+- ✿ Discord: **Kinue#8888** ✿
 
 ### Fav manga, light novel, anime
 - Eiyuu no Musume Toshite Umarekawatta Eiyuu wa Futatabi Eiyuu o Mezasu
