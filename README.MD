@@ -3,11 +3,12 @@
 - for file hosting
 - simp okayu today
 - darwin > linux
+- ur mon suck
 - ?
 
 ### Contacts
 - Discord: **Kinue#8888**
 
-![Random shit image](https://i.imgur.com/iOhSqD4.png)
+![ur suck(https://i.imgur.com/iOhSqD4.png)
 
-[![Random shit stats](https://github-readme-stats.vercel.app/api?username=kinue72&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![gay stats](https://github-readme-stats.vercel.app/api?username=kinue72&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
