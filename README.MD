@@ -3,7 +3,7 @@
 - for file hosting
 - simp okayu today
 - darwin > linux
-- ur mon suck
+- ur mom suck
 - ?
 
 ### Contacts
