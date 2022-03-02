@@ -2,13 +2,13 @@
 - windoze = gay
 - for file hosting
 - simp okayu today
-- darwin > linux
+- lunix > darwin
 - ur mom suck
-- ?
+- im gay
 
 ### Contacts
 - Discord: **Kinue#8888**
 
 ![ur suck](https://i.imgur.com/WRgjDti.jpeg)
 
-[![gay stats](https://github-readme-stats.vercel.app/api?username=kinue72&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![gay](https://github-readme-stats.vercel.app/api?username=kinue72&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
