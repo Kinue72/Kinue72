@@ -7,7 +7,7 @@
 - im gay
 
 ### Contacts
-- Discord: **Kinue#8888**
+- no
 
 ![ur suck](https://i.imgur.com/jcVVGNP.png)
 
