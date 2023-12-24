@@ -14,6 +14,28 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
+
+**I Mostly Code in Java** 
+
+```text
+Java                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+C#                       7 repos             █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Kotlin                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Kinue72/Kinue72/main/assets/bar_graph.png)
+
+
+ Last Updated on 24/12/2023 18:06:18 UTC
 <!--END_SECTION:waka-->
 
 <hr>
