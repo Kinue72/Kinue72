@@ -14,6 +14,8 @@
 <hr>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2018%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
@@ -79,7 +81,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kinue72/Kinue72/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2023 17:24:48 UTC
+ Last Updated on 25/12/2023 19:10:28 UTC
 <!--END_SECTION:waka-->
 
 <hr>
