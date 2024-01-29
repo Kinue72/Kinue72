@@ -47,13 +47,13 @@ Sunday                   68 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C++                      2 hrs 26 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            2 hrs 26 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 26 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -73,7 +73,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kinue72/Kinue72/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2024 19:08:39 UTC
+ Last Updated on 29/01/2024 19:09:14 UTC
 <!--END_SECTION:waka-->
 
 <hr>
