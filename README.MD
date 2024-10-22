@@ -14,47 +14,9 @@
 <hr>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2021%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.2%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-🌆 Daytime                112 commits         █████████░░░░░░░░░░░░░░░░   36.13 % 
-🌃 Evening                82 commits          ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-🌙 Night                  73 commits          ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Tuesday                  38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Wednesday                32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Thursday                 41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Friday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Saturday                 43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Sunday                   73 commits          ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Java** 
 
@@ -73,7 +35,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kinue72/Kinue72/main/assets/bar_graph.png)
 
 
- Last Updated on 21/10/2024 19:12:02 UTC
+ Last Updated on 22/10/2024 19:13:27 UTC
 <!--END_SECTION:waka-->
 
 <hr>
