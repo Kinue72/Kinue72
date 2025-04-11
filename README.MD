@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -59,11 +59,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-C#                       10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Kotlin                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Java                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+C#                       10 repos            ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Kotlin                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
 ```
 
 
@@ -73,7 +73,7 @@ Kotlin                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kinue72/Kinue72/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2025 19:13:35 UTC
+ Last Updated on 11/04/2025 19:19:41 UTC
 <!--END_SECTION:waka-->
 
 <hr>
