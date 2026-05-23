@@ -18,42 +18,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.48%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-🌆 Daytime                168 commits         ████████░░░░░░░░░░░░░░░░░   33.27 % 
-🌃 Evening                163 commits         ████████░░░░░░░░░░░░░░░░░   32.28 % 
-🌙 Night                  124 commits         ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Tuesday                  68 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Wednesday                78 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Thursday                 88 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Friday                   103 commits         █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Sunday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -71,7 +35,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kinue72/Kinue72/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2026 20:51:17 UTC
+ Last Updated on 23/05/2026 20:14:00 UTC
 <!--END_SECTION:waka-->
 
 <hr>
