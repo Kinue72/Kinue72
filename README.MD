@@ -4,12 +4,10 @@
 
 <h3 align="center"> Language & Skills </h3>
 
-- Golang
-- Kotlin
-- Java
-- C#
-- Typescript
-- Web Development
+- Crab
+- Gopher
+- Duke
+- Copy Paste Plus
   <h4 align="center">If it works, it works</h4>
 <hr>
 
