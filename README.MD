@@ -63,11 +63,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Rust                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Rust                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C                        3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
@@ -77,7 +77,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Kinue72/Kinue72/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:50:32 UTC
+ Last Updated on 01/10/2026 23:01:24 UTC
 <!--END_SECTION:waka-->
 
 <hr>
